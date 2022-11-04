@@ -1,0 +1,308 @@
+
+body{
+    font-weight: bold;
+   
+}
+
+ .pho {
+
+    -webkit-background-size:covber;
+    -moz-background-size:covber;
+    -o-background-size:covber;
+    background-size:covber;
+   height:400px;
+    width:100%;
+
+}
+
+img {
+width: 50px;
+height: 140px;
+}
+
+
+    /* start log */
+    /*n  المواقع التي داخل الصوره */
+
+.log {
+
+    background:url('images/abk.jpg') no-repeat center center fixed;
+    /*   لضبط الصور على السيكشن بشكل طبيعي    من الافضل ان نجيب صوره حجمها عالي*/ 
+    -webkit-background-size:covber;
+    -moz-background-size:covber;
+    -o-background-size:covber;
+    background-size:covber;
+    text-align: center;
+    width:100%;
+    height: 100%; 
+border-radius: 250px 250px  0 0;
+    border: 6px solid rgb(255, 7, 7);
+
+font-size:15px;
+
+
+}
+ /*   start     section price table   */
+  .log .price-table
+ {
+     width:100%;
+     padding-top:20px;
+     padding-bottom:40px;
+
+ }
+ /*  خاص بلعنوان */
+.log .price-table h1{
+ margin-bottom:40px;
+}
+/*  خاص بصندوق المحتوى */
+.log .text-primary{
+    color:crimson;
+}
+
+.log .price-table .price-box{
+    margin-top:30px;
+    border-radius:0px  90px  90px 90px ;
+    padding:10px;
+    background: rgb(179, 184, 160);
+    background-size:covber;
+    color:rgb(0, 0, 0);
+    height: 400px; 
+
+}
+.log .price-table .price-box:hover{
+    color:rgb(255, 0, 0);
+    font-weight: bold;
+    background: rgb(15, 2, 2);
+    
+
+}
+
+.price-table .price-box .tex{
+ font-size:20px;
+}
+.price-table .price-box h2{
+ margin:5px 0 15px;
+}
+
+.price-table .price-box p{
+
+ line-height:100px;
+}
+.price-table .price-box p img{
+  width:230px;
+}
+.price-table .price-box ul{
+ line-height:200%;
+ font-size:18px;
+}
+.price-table .price-box a{
+ margin-bottom:5px;
+}
+
+
+
+
+/*  خاص بصندوق المحتوى */
+.log .price-table .price{
+    margin-top:30px;
+    background: rgb(179, 184, 160);
+    background-size:covber;
+border-radius:0px  90px  90px 90px ;
+color:rgb(0, 0, 0);
+padding:10px;
+height: 400px;
+margin-bottom: 20px;
+}
+.log .price-table .price:hover{
+    color:rgb(255, 0, 0);
+    font-weight: bold;
+    background: rgb(15, 2, 2);
+    opacity: 1;
+
+}
+
+
+.log .price-table .price .tex{
+font-size:20px;
+}
+.log .price-table .price h2{
+margin:5px 0 15px;
+}
+
+.log .price-table .price p{
+
+line-height:100px;
+}
+.log .price-table .price p img{
+ width:230px;
+}
+.log .price-table .price ul{
+line-height:200%;
+font-size:18px;
+}
+.log .price-table .price a{
+margin-bottom:5px;
+}
+
+
+ /*   end     section price table      */
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+/*  ألصوره التي تحتوي علىال مواقع */
+.log2 {
+
+    background:url('../img/descrip/vbg.jpg') no-repeat center center fixed;
+    /*   لضبط الصور على السيكشن بشكل طبيعي    من الافضل ان نجيب صوره حجمها عالي*/ 
+    -webkit-background-size:covber;
+    -moz-background-size:covber;
+    -o-background-size:covber;
+    background-size:covber;
+    text-align: center;
+    width:100%;
+ 
+border-radius: 250px 250px  0   0;
+    border: 6px solid rgb(226, 0, 0);
+    margin-right:300px;
+    font-size:15px;
+
+
+}
+/*   start     section price table   */
+.log2 .price-table 
+{
+    width:100%;  
+  margin-bottom: 50px;
+
+}
+
+/*  خاص بلعنوان */
+.log2 .price-table h1{
+margin-bottom:40px;
+}
+/*  خاص بصندوق المحتوى */
+.log2 .price-table  .price-box{
+  margin-top: 30px;
+    background:rgb(179, 184, 160);
+   
+    color:rgb(0, 0, 0);
+    height: 400px;
+border-radius:0px  90px  90px 0 ;
+padding:10px;
+
+
+}
+.log2 .price-table .price-box:hover{
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    background: rgb(184, 134, 134);
+  
+
+}
+
+
+.log2 .price-table .price-box .tex{
+font-size:20px;
+}
+.log2 .price-table .price-box h2{
+margin:5px 0 15px;
+}
+
+.log2 .price-table .price-box p{
+
+line-height:100px;
+}
+.log2 .price-table .price-box p img{
+ width:230px;
+}
+.log2 .price-table .price-box ul{
+line-height:200%;
+font-size:18px;
+}
+.log2 .price-table .price-box a{
+margin-bottom:5px;
+}
+
+/*  خاص بصندوق المحتوى */
+.log2 .price-table .price{
+
+    margin-top:30px;
+    border-radius:0px  90px  90px 0 ;
+    padding:10px;
+    background: rgb(179, 184, 160);
+   
+    color:#000;
+    height: 400px;
+   
+   
+    }
+    .log2 .price-table .price:hover{
+        color:rgb(217, 255, 0);
+        font-weight: bold;
+        background: rgb(167, 131, 131);
+        opacity: 1;
+
+    }
+    
+    .log2  .price-table .price .tex{
+    font-size:20px;
+    }
+    .log2  .price-table .price h2{
+    margin:5px 0 15px;
+    }
+    
+    .log2  .price-table .price p{
+    
+    line-height:100px;
+    }
+    .log2  .price-table .price p img{
+     width:230px;
+    }
+    .log2  .price-table .price ul{
+    line-height:200%;
+    font-size:18px;
+    }
+    .log2  .price-table .price a{
+    margin-bottom:5px;
+    }
+    
+    
+     /*   end     section price table      */
+    
+
+
+
+              /*  end  logec6*/
+
+
+              
+         
+       
+       
+                /* ent section  footer */
+       
+                .img-thumbnail{
+                    width:80px;
+                    height: 10px;
+                }
+       
+       
+       
+       
+       
+       
